@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Shalimar Bagh",
+        "city_id": 1,
+        "location_id": 1,
+        "location": "Pune",
+        "country_name": "India"
+    },
+    {
+        "name": "Janpat",
+        "city_id": 1,
+        "location_id": 2,
+        "location": "Mumbai",
+        "country_name": "India"
+    },
+    {
+        "name": "MSP",
+        "city_id": 1,
+        "location_id": 3,
+        "location": "Delhi",
+        "country_name": "India"
+    },
+    {
+        "name": "MSP",
+        "city_id": 2,
+        "location_id": 4,
+        "location": "Kolkata",
+        "country_name": "India"
+    },
+    {
+        "name": "Anand Vihar",
+        "city_id": 1,
+        "location_id": 5,
+        "location": "Delhi",
+        "country_name": "India"
+    }
+]

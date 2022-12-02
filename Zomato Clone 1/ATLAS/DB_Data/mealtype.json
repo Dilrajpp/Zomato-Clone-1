@@ -1,0 +1,38 @@
+[
+    {
+        "mealtype": "Breakfast",
+        "content": "Start your day with exclusive breakfast options",
+        "image": "breakfast.png",
+        "meal_type": 1
+    },
+    {
+        "mealtype": "Lunch",
+        "content": "Start your day with exclusive lunch options",
+        "image": "lunch.png",
+        "meal_type": 2
+    },
+    {
+        "mealtype": "Dinner",
+        "content": "Start your day with exclusive dinner options",
+        "image": "dinner.png",
+        "meal_type": 3
+    },
+    {
+        "mealtype": "Snacks",
+        "content": "Start your day with exclusive snacks options",
+        "image": "snacks.png",
+        "meal_type": 4
+    },
+    {
+        "mealtype": "Drinks",
+        "content": "Start your day with exclusive drinks options",
+        "image": "drinks.png",
+        "meal_type": 5
+    },
+    {
+        "mealtype": "NightLife",
+        "content": "Start your day with exclusive nightlife options",
+        "image": "night_life.png",
+        "meal_type": 6
+    }
+]
