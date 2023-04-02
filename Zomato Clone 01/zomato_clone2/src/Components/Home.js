@@ -8,7 +8,7 @@ class Home extends React.Component {
     constructor() {
         super();
         this.state = {
-            locations: [],
+            locations: [],                              
             mealtype: []
         }
     }
@@ -41,7 +41,7 @@ class Home extends React.Component {
             <div>
                 {/* Header */}
                 < Welcome locationData={locations} />
-
+--
                 {/* Quick Search */}
                 < QuickSearch mealtypesData={mealtypes} />
             </div>

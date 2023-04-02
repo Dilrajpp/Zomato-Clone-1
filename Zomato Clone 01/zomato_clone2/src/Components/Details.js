@@ -127,7 +127,7 @@ class Details extends React.Component {
                         <div className="logo_filter">
                             <b>e!</b>
                         </div>
-                        <form className="d-flex">
+                        <form className="d-flex ">
                             <a className="nav-link active text-white" aria-current="page" href="../Styles/Details.css">login</a>
 
                             <button className="btn btn-danger border-white" type="button">Create an account</button>
